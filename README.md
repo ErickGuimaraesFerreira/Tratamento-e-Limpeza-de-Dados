@@ -1,4 +1,4 @@
-<h3>Tratamento-e-Limpeza-de-Dados</h3>
+<h3>Tratamento e Limpeza de Dados</h3>
 
 Bem-vindo ao meu repositório dedicado à limpeza e tratamento dos dados do Titanic!
 
